@@ -1,0 +1,24 @@
+{
+  "name": "WebChat",
+  "version": "1.0.0",
+  "description": "Skyway Web Chat System",
+  "author": "Junichi Kawahara &lt;kawahara-j@hi-ad.jp&gt;",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0-beta",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "skyway-js": "^1.1.20"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
